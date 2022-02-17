@@ -1,0 +1,7 @@
+//input numbers
+//declare integer sum
+  //if integer is positive
+     //sum= sum+integer
+  //if not positive 
+     //break code
+//print sum

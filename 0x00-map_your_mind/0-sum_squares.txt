@@ -1,0 +1,12 @@
+
+//declare int a
+//declare int b
+
+//scan int a
+//scan int b
+//declare int sum
+b = b x b
+a = a x a
+
+sum = a+b
+

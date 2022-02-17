@@ -1,0 +1,4 @@
+//declare integer a, b, c
+//scan int a, b, c
+//sort in ascending order
+//sort in descending order
